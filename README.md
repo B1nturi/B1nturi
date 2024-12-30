@@ -32,7 +32,7 @@
 
 ## 🎉 Latest Projects
 Here are some of my recent works:
-- 🚀 [Calculator Project]([https://github.com/rahmanfardin/cse412-project](https://github.com/OneClick21/Calculator_Project): This Android calculator project aims to create an intuitive app that supports both basic and advanced arithmetic operations. It involves developing a reliable back-end for efficient calculations and designing a sleek, user-friendly interface. The goal is to provide a dependable, efficient, and visually appealing tool for everyday mathematical needs.
+- 🚀 ![Calculator Project]([https://github.com/rahmanfardin/cse412-project](https://github.com/OneClick21/Calculator_Project): This Android calculator project aims to create an intuitive app that supports both basic and advanced arithmetic operations. It involves developing a reliable back-end for efficient calculations and designing a sleek, user-friendly interface. The goal is to provide a dependable, efficient, and visually appealing tool for everyday mathematical needs.
 <!-- - 🌟 [Project 2](https://github.com/yourusername/project2): Brief description of what this project is about.
 - 🔧 [Project 3](https://github.com/yourusername/project3): Brief description of what this project is about.  -->
 
