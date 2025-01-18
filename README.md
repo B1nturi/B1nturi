@@ -26,25 +26,25 @@
 <!-- ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) -->
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=oneclick21&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=oneclick21&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=oneclick21&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=b1nturi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=b1nturi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=b1nturi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🎉 Latest Projects
 Here are some of my recent works:
-- 🚀 [Calculator Project](https://github.com/OneClick21/Calculator_Project): This Android calculator project aims to create an intuitive app that supports both basic and advanced arithmetic operations. It involves developing a reliable back-end for efficient calculations and designing a sleek, user-friendly interface. The goal is to provide a dependable, efficient, and visually appealing tool for everyday mathematical needs.
+- 🚀 [Calculator Project](https://github.com/b1nturi/Calculator_Project): This Android calculator project aims to create an intuitive app that supports both basic and advanced arithmetic operations. It involves developing a reliable back-end for efficient calculations and designing a sleek, user-friendly interface. The goal is to provide a dependable, efficient, and visually appealing tool for everyday mathematical needs.
 <!-- - 🌟 [Project 2](https://github.com/yourusername/project2): Brief description of what this project is about.
 - 🔧 [Project 3](https://github.com/yourusername/project3): Brief description of what this project is about.  -->
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=oneclick21&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=b1nturi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=oneclick21&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=b1nturi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## 📈 Activity Graph
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=oneclick21&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=b1nturi&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=oneclick21&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=b1nturi&icon=0&color=0)](https://visitcount.itsvg.in)
 
