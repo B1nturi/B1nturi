@@ -45,8 +45,8 @@ Here are some of my recent works:
 ## 📈 Activity Graph
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=b1nturi&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----
 [![Profile Views](https://komarev.com/ghpvc/?username=b1nturi&label=Profile%20views&color=0e75b6&style=flat)](https://komarev.com/ghpvc/?username=b1nturi)
+---
 
 
 
