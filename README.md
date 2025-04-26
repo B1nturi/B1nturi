@@ -1,7 +1,7 @@
 # 🤩 About Me:
 - 👋 Hi, I’m Jubayer Alam Likhon
 - 👀 I’m passionate about DevOps and Android app development
-- 🌱 Currently diving deep into Android app development
+- 🌱 Currently diving deep into Web app development
 - 💡 Always eager to learn and explore new technologies
 
 ## 🌐 Connect with Me:
